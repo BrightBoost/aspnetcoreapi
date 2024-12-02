@@ -61,8 +61,8 @@
         public string Description { get; set; }
     }
 ```
-2. Create a new file named `ProductsController.cs` in the same folder.
-3. Add the following code to define basic CRUD operations:
+4. Create a new file named `ProductsController.cs` in the Controllers folder.
+5. Add the following code to define basic CRUD operations:
 
    ```csharp
    using Microsoft.AspNetCore.Mvc;
@@ -126,7 +126,7 @@
    }
    ```
 
-4. Save the file.
+6. Save the file.
 
 ---
 
